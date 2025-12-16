@@ -233,5 +233,5 @@ SOFTWARE.
 ## Acknowledgments
 
 - **Dataset**: [Argument Annotated Essays Corpus](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2422) by Stab & Gurevych (2017)
-- **Course**: Advanced Natural Language Processing, UC Berkeley
+- **Course**: INFO 256 Applied Natural Language Processing, UC Berkeley
 
